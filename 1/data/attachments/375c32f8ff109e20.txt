@@ -1,0 +1,10 @@
+Status: 200
+Response Body: {
+  "token": "QpwL5tke4Pnpja7X4"
+}
+Response time: 204 ms
+Status: 400
+Response Body: {
+  "error": "Missing email or username"
+}
+Response time: 203 ms

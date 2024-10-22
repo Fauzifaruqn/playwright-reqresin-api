@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Antonia Murazik",
+  "job": "Dynamic Accountability Designer",
+  "id": "848",
+  "createdAt": "2024-10-22T14:00:08.304Z"
+}
+Response time: 222 ms
