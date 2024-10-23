@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Maryann Bechtelar",
+  "job": "Corporate Directives Consultant",
+  "updatedAt": "2024-10-23T02:51:35.311Z"
+}

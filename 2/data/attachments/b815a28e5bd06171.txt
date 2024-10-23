@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Grace Little V",
+  "job": "Investor Group Developer",
+  "id": "161",
+  "createdAt": "2024-10-23T02:51:35.094Z"
+}
+Response time: 200 ms
