@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Elsa Schaden",
+  "job": "Legacy Security Facilitator",
+  "updatedAt": "2024-10-24T02:51:47.066Z"
+}

@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "James Stokes",
+  "job": "Product Assurance Facilitator",
+  "id": "741",
+  "createdAt": "2024-10-24T02:51:46.848Z"
+}
+Response time: 194 ms

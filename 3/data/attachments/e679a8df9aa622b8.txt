@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Manuel Balistreri",
+  "job": "Forward Tactics Officer",
+  "updatedAt": "2024-10-24T02:51:48.109Z"
+}
