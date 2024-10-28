@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Jackie Hermiston",
+  "job": "Legacy Mobility Technician",
+  "id": "986",
+  "createdAt": "2024-10-28T02:57:14.647Z"
+}
+Response time: 199 ms
