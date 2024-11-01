@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Teresa Marks",
+  "job": "Product Solutions Designer",
+  "updatedAt": "2024-11-01T03:01:18.177Z"
+}

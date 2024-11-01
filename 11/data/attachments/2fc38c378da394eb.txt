@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Willard Thompson",
+  "job": "Principal Factors Liaison",
+  "id": "754",
+  "createdAt": "2024-11-01T03:01:17.157Z"
+}
+Response time: 156 ms
