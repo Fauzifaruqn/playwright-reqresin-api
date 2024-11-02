@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Doug Smith I",
+  "job": "Regional Creative Consultant",
+  "updatedAt": "2024-11-02T02:49:30.494Z"
+}
