@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Ricky Emmerich",
+  "job": "International Usability Planner",
+  "id": "466",
+  "createdAt": "2024-11-03T02:57:11.515Z"
+}
+Response time: 181 ms
