@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Pablo Hahn",
+  "job": "Legacy Solutions Agent",
+  "updatedAt": "2024-11-04T02:56:33.668Z"
+}
