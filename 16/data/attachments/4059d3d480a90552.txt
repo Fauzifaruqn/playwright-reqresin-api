@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Samuel Robel",
+  "job": "Forward Creative Strategist",
+  "updatedAt": "2024-11-06T02:48:22.812Z"
+}

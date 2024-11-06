@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mrs. Erma Ankunding",
-  "job": "Regional Assurance Officer",
-  "updatedAt": "2024-10-22T14:00:08.554Z"
-}
