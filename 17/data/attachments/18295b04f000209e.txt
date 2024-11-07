@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Saul Kreiger",
+  "job": "Product Configuration Director",
+  "id": "961",
+  "createdAt": "2024-11-07T02:49:37.066Z"
+}
+Response time: 169 ms
