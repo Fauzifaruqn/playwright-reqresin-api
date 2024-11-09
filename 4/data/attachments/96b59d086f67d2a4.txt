@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Bert Lockman",
-  "job": "Future Implementation Consultant",
-  "id": "451",
-  "createdAt": "2024-10-25T02:54:15.256Z"
-}
-Response time: 192 ms

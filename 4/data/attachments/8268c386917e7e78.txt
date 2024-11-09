@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Adrian Yundt",
-  "job": "International Markets Planner",
-  "updatedAt": "2024-10-25T02:54:16.511Z"
-}

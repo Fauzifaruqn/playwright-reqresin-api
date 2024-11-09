@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Oscar Daugherty",
-  "job": "National Factors Strategist",
-  "updatedAt": "2024-10-25T02:54:15.472Z"
-}
