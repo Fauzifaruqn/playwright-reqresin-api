@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mr. Micheal Kuvalis",
-  "job": "District Accounts Representative",
-  "updatedAt": "2024-10-26T02:48:19.829Z"
-}

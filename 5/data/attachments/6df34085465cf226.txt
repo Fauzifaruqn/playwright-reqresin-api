@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Albert White",
-  "job": "Direct Infrastructure Supervisor",
-  "id": "61",
-  "createdAt": "2024-10-26T02:48:18.403Z"
-}
-Response time: 223 ms
