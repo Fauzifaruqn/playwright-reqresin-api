@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Jeff Kihn",
+  "job": "National Security Director",
+  "id": "993",
+  "createdAt": "2024-11-11T02:51:02.880Z"
+}
+Response time: 279 ms

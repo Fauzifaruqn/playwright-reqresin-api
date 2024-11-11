@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Dr. Marshall Swaniawski",
+  "job": "Human Branding Facilitator",
+  "updatedAt": "2024-11-11T02:51:04.640Z"
+}
