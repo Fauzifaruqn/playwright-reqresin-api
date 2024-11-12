@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Kellie Huel DDS",
-  "job": "Lead Web Coordinator",
-  "updatedAt": "2024-10-28T02:57:15.914Z"
-}

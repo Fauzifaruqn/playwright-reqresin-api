@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Lisa Jones-Klocko",
+  "job": "International Tactics Supervisor",
+  "id": "112",
+  "createdAt": "2024-11-12T02:47:03.505Z"
+}
+Response time: 164 ms

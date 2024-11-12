@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Toni Fritsch-Kertzmann",
-  "job": "Direct Paradigm Technician",
-  "updatedAt": "2024-10-28T02:57:14.868Z"
-}
