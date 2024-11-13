@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Kendra Keeling",
-  "job": "Internal Functionality Administrator",
-  "updatedAt": "2024-10-29T02:54:07.255Z"
-}

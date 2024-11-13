@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Eugene Ledner",
-  "job": "Dynamic Usability Supervisor",
-  "updatedAt": "2024-10-29T02:54:06.209Z"
-}
