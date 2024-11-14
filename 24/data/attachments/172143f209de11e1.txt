@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Iris Abernathy",
+  "job": "National Brand Planner",
+  "updatedAt": "2024-11-14T02:51:05.270Z"
+}

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Inez Stroman",
-  "job": "Product Paradigm Architect",
-  "updatedAt": "2024-10-30T02:53:14.006Z"
-}

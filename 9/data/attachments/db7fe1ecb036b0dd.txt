@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Marvin Howe",
-  "job": "Regional Division Strategist",
-  "id": "789",
-  "createdAt": "2024-10-30T02:53:12.967Z"
-}
-Response time: 164 ms

@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Stephanie Jaskolski",
+  "job": "Regional Quality Strategist",
+  "id": "467",
+  "createdAt": "2024-11-14T02:51:04.968Z"
+}
+Response time: 273 ms

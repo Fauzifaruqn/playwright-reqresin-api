@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Kellie Mills",
-  "job": "Central Communications Administrator",
-  "updatedAt": "2024-10-30T02:53:13.148Z"
-}
