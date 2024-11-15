@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Amber Weissnat",
-  "job": "Lead Program Executive",
-  "id": "518",
-  "createdAt": "2024-10-31T02:54:30.010Z"
-}
-Response time: 158 ms

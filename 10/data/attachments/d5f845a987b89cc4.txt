@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Susan Jerde",
-  "job": "Customer Integration Manager",
-  "updatedAt": "2024-10-31T02:54:30.188Z"
-}

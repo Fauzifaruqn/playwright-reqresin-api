@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Orlando Daugherty PhD",
-  "job": "Corporate Division Specialist",
-  "updatedAt": "2024-10-31T02:54:31.051Z"
-}

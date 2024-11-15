@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Ramona Rempel Jr.",
+  "job": "Principal Configuration Facilitator",
+  "updatedAt": "2024-11-15T02:58:57.977Z"
+}
