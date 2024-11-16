@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Rosalie Waelchi",
+  "job": "Global Creative Administrator",
+  "updatedAt": "2024-11-16T02:56:13.550Z"
+}
