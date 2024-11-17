@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Kristin Keebler Jr.",
+  "job": "Chief Intranet Manager",
+  "updatedAt": "2024-11-17T03:02:03.395Z"
+}
