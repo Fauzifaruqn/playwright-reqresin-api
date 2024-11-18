@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Miss Dora Wehner-Fisher",
-  "job": "Global Program Liaison",
-  "updatedAt": "2024-11-03T02:57:12.656Z"
-}

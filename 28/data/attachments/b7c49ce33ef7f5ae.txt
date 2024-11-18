@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Misty Connelly-Torp",
+  "job": "Chief Data Assistant",
+  "updatedAt": "2024-11-18T03:01:38.787Z"
+}
