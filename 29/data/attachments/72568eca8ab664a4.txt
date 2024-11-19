@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Ms. Sophia Jacobi-Okuneva",
+  "job": "Principal Brand Agent",
+  "id": "841",
+  "createdAt": "2024-11-19T02:58:27.533Z"
+}
+Response time: 159 ms

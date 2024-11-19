@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Raymond Grimes",
-  "job": "Global Creative Liaison",
-  "id": "251",
-  "createdAt": "2024-11-04T02:56:33.381Z"
-}
-Response time: 282 ms
