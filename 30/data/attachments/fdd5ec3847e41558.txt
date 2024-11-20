@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Bradford Parisian",
+  "job": "Human Security Representative",
+  "id": "425",
+  "createdAt": "2024-11-20T02:57:34.176Z"
+}
+Response time: 171 ms

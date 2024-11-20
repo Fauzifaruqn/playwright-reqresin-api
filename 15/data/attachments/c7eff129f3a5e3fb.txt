@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Jacquelyn Kunde",
-  "job": "Senior Branding Developer",
-  "id": "600",
-  "createdAt": "2024-11-05T02:49:23.423Z"
-}
-Response time: 188 ms
