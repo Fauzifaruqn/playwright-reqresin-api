@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Max Aufderhar",
-  "job": "Chief Identity Supervisor",
-  "updatedAt": "2024-11-07T02:49:37.244Z"
-}

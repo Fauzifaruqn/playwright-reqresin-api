@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Jacob Ziemann",
+  "job": "Direct Interactions Analyst",
+  "id": "197",
+  "createdAt": "2024-11-22T02:58:47.383Z"
+}
+Response time: 178 ms
