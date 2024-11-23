@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Melanie Zieme",
-  "job": "Global Intranet Facilitator",
-  "updatedAt": "2024-11-08T02:49:49.187Z"
-}
