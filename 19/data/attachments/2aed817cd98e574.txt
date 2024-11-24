@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Howard Spencer",
-  "job": "Principal Integration Designer",
-  "updatedAt": "2024-11-09T02:43:48.188Z"
-}
