@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Laurie Leuschke",
-  "job": "District Operations Strategist",
-  "updatedAt": "2024-11-10T02:52:31.010Z"
-}

@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Carolyn Heidenreich",
-  "job": "District Identity Assistant",
-  "id": "341",
-  "createdAt": "2024-11-10T02:52:30.692Z"
-}
-Response time: 318 ms

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Alexis Hermann",
-  "job": "International Configuration Executive",
-  "updatedAt": "2024-11-10T02:52:32.050Z"
-}
