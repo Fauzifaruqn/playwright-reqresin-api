@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Ramiro Beier",
+  "job": "Dynamic Data Technician",
+  "id": "76",
+  "createdAt": "2024-11-26T03:00:04.445Z"
+}
+Response time: 293 ms

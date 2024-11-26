@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Maurice Schulist",
-  "job": "District Creative Officer",
-  "updatedAt": "2024-11-11T02:51:03.178Z"
-}
