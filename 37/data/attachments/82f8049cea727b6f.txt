@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Willard Windler",
+  "job": "Internal Paradigm Consultant",
+  "id": "946",
+  "createdAt": "2024-11-27T03:02:02.048Z"
+}
+Response time: 325 ms

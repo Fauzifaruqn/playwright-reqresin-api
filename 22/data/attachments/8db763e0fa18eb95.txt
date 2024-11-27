@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Clyde Bins",
-  "job": "Principal Solutions Coordinator",
-  "updatedAt": "2024-11-12T02:47:04.531Z"
-}

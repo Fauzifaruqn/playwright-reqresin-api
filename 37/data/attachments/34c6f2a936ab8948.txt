@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Lee Lind",
+  "job": "District Assurance Analyst",
+  "updatedAt": "2024-11-27T03:02:02.474Z"
+}
