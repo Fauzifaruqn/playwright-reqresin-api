@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Traci Medhurst",
-  "job": "Internal Assurance Executive",
-  "id": "355",
-  "createdAt": "2024-11-13T02:50:14.589Z"
-}
-Response time: 168 ms

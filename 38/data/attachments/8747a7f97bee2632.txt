@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Ramon Walker",
+  "job": "Customer Research Representative",
+  "updatedAt": "2024-11-28T03:02:04.957Z"
+}
