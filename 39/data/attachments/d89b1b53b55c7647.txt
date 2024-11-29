@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Mr. Noel Schultz",
+  "job": "Central Data Coordinator",
+  "updatedAt": "2024-11-29T03:01:48.411Z"
+}

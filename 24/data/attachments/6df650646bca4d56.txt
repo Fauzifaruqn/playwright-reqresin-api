@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Randall Cruickshank V",
-  "job": "Senior Markets Strategist",
-  "updatedAt": "2024-11-14T02:51:06.718Z"
-}
