@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Lela Armstrong",
+  "job": "Forward Program Strategist",
+  "id": "163",
+  "createdAt": "2024-11-30T02:56:42.679Z"
+}
+Response time: 308 ms

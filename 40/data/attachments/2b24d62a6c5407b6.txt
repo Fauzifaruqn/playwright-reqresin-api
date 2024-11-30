@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Gloria Weissnat",
+  "job": "Human Quality Engineer",
+  "updatedAt": "2024-11-30T02:56:44.527Z"
+}

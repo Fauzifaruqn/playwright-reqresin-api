@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dana Gutkowski",
-  "job": "District Marketing Assistant",
-  "updatedAt": "2024-11-15T02:58:58.905Z"
-}

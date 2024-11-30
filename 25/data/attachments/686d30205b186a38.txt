@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Harvey Mayer",
-  "job": "Forward Directives Consultant",
-  "id": "90",
-  "createdAt": "2024-11-15T02:58:57.776Z"
-}
-Response time: 176 ms
