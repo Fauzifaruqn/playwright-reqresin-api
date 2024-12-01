@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Dustin O'Keefe",
-  "job": "Senior Branding Technician",
-  "id": "58",
-  "createdAt": "2024-11-16T02:56:12.526Z"
-}
-Response time: 170 ms
