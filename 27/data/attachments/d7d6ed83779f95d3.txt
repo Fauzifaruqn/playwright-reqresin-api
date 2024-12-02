@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Sara Upton",
-  "job": "Internal Division Liaison",
-  "id": "528",
-  "createdAt": "2024-11-17T03:02:02.342Z"
-}
-Response time: 166 ms

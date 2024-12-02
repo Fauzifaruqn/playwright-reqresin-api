@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Glenda VonRueden DVM",
-  "job": "Chief Implementation Specialist",
-  "updatedAt": "2024-11-17T03:02:02.524Z"
-}

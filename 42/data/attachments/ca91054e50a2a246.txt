@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Martha Jerde",
+  "job": "Investor Implementation Strategist",
+  "id": "567",
+  "createdAt": "2024-12-02T03:06:09.064Z"
+}
+Response time: 297 ms
