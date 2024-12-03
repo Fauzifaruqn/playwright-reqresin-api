@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Sally Langworth",
+  "job": "Product Solutions Developer",
+  "updatedAt": "2024-12-03T03:06:22.766Z"
+}

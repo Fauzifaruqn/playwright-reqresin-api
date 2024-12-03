@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Andrea Armstrong-Crona",
+  "job": "Investor Research Designer",
+  "id": "271",
+  "createdAt": "2024-12-03T03:06:21.687Z"
+}
+Response time: 172 ms

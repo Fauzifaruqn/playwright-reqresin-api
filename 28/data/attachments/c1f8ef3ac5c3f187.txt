@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Joyce Bartell-Bergnaum",
-  "job": "Forward Directives Manager",
-  "id": "109",
-  "createdAt": "2024-11-18T03:01:36.921Z"
-}
-Response time: 304 ms
