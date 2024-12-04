@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Robin McClure V",
+  "job": "Principal Web Liaison",
+  "id": "608",
+  "createdAt": "2024-12-04T03:04:28.533Z"
+}
+Response time: 293 ms

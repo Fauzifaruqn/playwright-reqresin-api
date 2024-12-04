@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "George Rosenbaum",
+  "job": "International Mobility Assistant",
+  "updatedAt": "2024-12-04T03:04:30.302Z"
+}
