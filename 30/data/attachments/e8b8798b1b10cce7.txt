@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Flora Ruecker",
-  "job": "Internal Division Producer",
-  "updatedAt": "2024-11-20T02:57:35.251Z"
-}
