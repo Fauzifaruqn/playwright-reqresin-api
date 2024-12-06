@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Tasha Hilll",
-  "job": "Regional Assurance Specialist",
-  "updatedAt": "2024-11-21T02:57:44.364Z"
-}

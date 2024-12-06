@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Beverly Schulist",
-  "job": "Global Marketing Representative",
-  "updatedAt": "2024-11-21T02:57:45.830Z"
-}

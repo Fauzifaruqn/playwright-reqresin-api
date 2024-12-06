@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Delbert Fritsch",
-  "job": "Central Solutions Developer",
-  "id": "932",
-  "createdAt": "2024-11-21T02:57:44.063Z"
-}
-Response time: 289 ms
