@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Cesar Oberbrunner",
-  "job": "Regional Factors Producer",
-  "updatedAt": "2024-11-22T02:58:48.512Z"
-}

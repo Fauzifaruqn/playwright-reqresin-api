@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Kellie Bernhard",
+  "job": "Senior Division Officer",
+  "updatedAt": "2024-12-07T03:01:43.913Z"
+}

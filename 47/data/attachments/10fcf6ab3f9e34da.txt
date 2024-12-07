@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Ada Schoen",
+  "job": "Principal Response Analyst",
+  "id": "352",
+  "createdAt": "2024-12-07T03:01:43.732Z"
+}
+Response time: 174 ms
