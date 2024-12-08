@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Isabel Bosco",
-  "job": "International Markets Facilitator",
-  "id": "566",
-  "createdAt": "2024-11-23T02:54:00.314Z"
-}
-Response time: 159 ms

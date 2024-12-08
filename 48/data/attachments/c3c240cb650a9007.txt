@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Allen Botsford",
+  "job": "Central Communications Officer",
+  "id": "792",
+  "createdAt": "2024-12-08T03:10:03.298Z"
+}
+Response time: 204 ms

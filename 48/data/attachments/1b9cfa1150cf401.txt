@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Beulah Thiel",
+  "job": "Central Creative Designer",
+  "updatedAt": "2024-12-08T03:10:03.511Z"
+}

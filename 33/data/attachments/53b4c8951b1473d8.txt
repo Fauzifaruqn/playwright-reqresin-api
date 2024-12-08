@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Renee Witting",
-  "job": "Lead Marketing Executive",
-  "updatedAt": "2024-11-23T02:54:00.503Z"
-}

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Gustavo Cummerata",
-  "job": "Forward Implementation Coordinator",
-  "updatedAt": "2024-11-23T02:54:01.377Z"
-}
