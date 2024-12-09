@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Pat Doyle",
-  "job": "Direct Directives Assistant",
-  "id": "271",
-  "createdAt": "2024-11-24T03:02:50.964Z"
-}
-Response time: 181 ms

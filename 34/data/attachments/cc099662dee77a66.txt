@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Alfonso Towne",
-  "job": "International Intranet Representative",
-  "updatedAt": "2024-11-24T03:02:51.177Z"
-}
