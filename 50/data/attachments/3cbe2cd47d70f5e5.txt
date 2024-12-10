@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Mr. Orlando Okuneva",
+  "job": "Global Metrics Facilitator",
+  "id": "851",
+  "createdAt": "2024-12-10T03:06:12.360Z"
+}
+Response time: 162 ms

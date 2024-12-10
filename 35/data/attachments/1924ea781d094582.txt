@@ -1,3 +1,0 @@
-Status: 404
-Response Body: {}
-Response time: 184 ms

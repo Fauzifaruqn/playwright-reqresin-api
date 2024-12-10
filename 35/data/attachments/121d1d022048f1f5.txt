@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Alfredo Kassulke",
-  "job": "Human Operations Planner",
-  "updatedAt": "2024-11-25T03:01:34.154Z"
-}

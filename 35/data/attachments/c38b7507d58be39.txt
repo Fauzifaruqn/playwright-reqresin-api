@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Holly Klein",
-  "job": "Legacy Interactions Technician",
-  "id": "305",
-  "createdAt": "2024-11-25T03:01:33.035Z"
-}
-Response time: 171 ms
