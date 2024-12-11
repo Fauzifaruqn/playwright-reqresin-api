@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Robin Hoppe",
-  "job": "Corporate Applications Consultant",
-  "updatedAt": "2024-11-26T03:00:06.223Z"
-}
