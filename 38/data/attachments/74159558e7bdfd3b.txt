@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Katherine Boehm",
-  "job": "Customer Factors Officer",
-  "id": "906",
-  "createdAt": "2024-11-28T03:02:03.093Z"
-}
-Response time: 322 ms

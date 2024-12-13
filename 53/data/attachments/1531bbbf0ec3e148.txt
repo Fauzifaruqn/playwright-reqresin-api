@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Bryan Mohr",
+  "job": "Legacy Accountability Architect",
+  "id": "428",
+  "createdAt": "2024-12-13T03:05:38.297Z"
+}
+Response time: 189 ms
