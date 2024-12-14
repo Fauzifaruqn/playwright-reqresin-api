@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Eunice Pollich",
-  "job": "Customer Operations Officer",
-  "updatedAt": "2024-11-29T03:01:49.865Z"
-}

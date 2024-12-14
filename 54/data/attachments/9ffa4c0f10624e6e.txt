@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jared Fahey",
+  "job": "International Directives Manager",
+  "updatedAt": "2024-12-14T02:58:58.709Z"
+}

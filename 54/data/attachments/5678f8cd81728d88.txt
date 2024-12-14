@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Ryan King DDS",
+  "job": "Forward Program Associate",
+  "id": "349",
+  "createdAt": "2024-12-14T02:58:58.529Z"
+}
+Response time: 233 ms
