@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Veronica Yost",
-  "job": "Human Group Designer",
-  "updatedAt": "2024-12-02T03:06:09.392Z"
-}

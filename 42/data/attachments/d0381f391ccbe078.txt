@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Meghan Casper",
-  "job": "International Markets Director",
-  "updatedAt": "2024-12-02T03:06:10.916Z"
-}
