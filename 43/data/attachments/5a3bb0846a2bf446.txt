@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Delia Farrell",
-  "job": "Internal Quality Planner",
-  "updatedAt": "2024-12-03T03:06:21.873Z"
-}

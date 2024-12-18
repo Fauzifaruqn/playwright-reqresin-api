@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Leo Runte",
+  "job": "International Branding Executive",
+  "id": "196",
+  "createdAt": "2024-12-18T02:58:10.655Z"
+}
+Response time: 153 ms

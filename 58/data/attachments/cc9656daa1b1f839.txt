@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Laura Rodriguez",
+  "job": "National Mobility Analyst",
+  "updatedAt": "2024-12-18T02:58:11.707Z"
+}
