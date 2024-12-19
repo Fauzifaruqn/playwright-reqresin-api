@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Joanna Ferry",
-  "job": "Corporate Tactics Director",
-  "updatedAt": "2024-12-04T03:04:28.838Z"
-}

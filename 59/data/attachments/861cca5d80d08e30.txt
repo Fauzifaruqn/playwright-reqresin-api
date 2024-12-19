@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Evan Steuber",
+  "job": "Chief Functionality Executive",
+  "updatedAt": "2024-12-19T02:58:52.821Z"
+}
