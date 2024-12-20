@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Bethany Hackett",
-  "job": "Chief Assurance Architect",
-  "updatedAt": "2024-12-05T03:04:50.091Z"
-}

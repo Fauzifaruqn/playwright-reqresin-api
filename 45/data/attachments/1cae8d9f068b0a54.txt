@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Lula Ryan",
-  "job": "Direct Communications Administrator",
-  "updatedAt": "2024-12-05T03:04:49.142Z"
-}

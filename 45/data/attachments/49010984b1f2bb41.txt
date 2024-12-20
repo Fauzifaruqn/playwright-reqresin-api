@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Alberto Kohler",
-  "job": "Principal Operations Analyst",
-  "id": "20",
-  "createdAt": "2024-12-05T03:04:48.938Z"
-}
-Response time: 185 ms
