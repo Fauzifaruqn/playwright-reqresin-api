@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Priscilla Dickens-Swift",
+  "job": "Global Marketing Officer",
+  "updatedAt": "2024-12-21T02:47:56.132Z"
+}

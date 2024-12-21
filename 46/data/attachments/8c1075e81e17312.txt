@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Miss Sheryl Jerde",
-  "job": "Human Mobility Administrator",
-  "updatedAt": "2024-12-06T03:03:38.598Z"
-}

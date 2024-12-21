@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "George Gottlieb",
-  "job": "Human Configuration Strategist",
-  "updatedAt": "2024-12-06T03:03:39.452Z"
-}

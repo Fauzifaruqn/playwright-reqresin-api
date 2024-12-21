@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Jane Bashirian",
-  "job": "Product Implementation Director",
-  "id": "203",
-  "createdAt": "2024-12-06T03:03:38.402Z"
-}
-Response time: 362 ms

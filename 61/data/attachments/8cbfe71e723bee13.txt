@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Pauline Schoen",
+  "job": "Customer Program Officer",
+  "id": "244",
+  "createdAt": "2024-12-21T02:47:55.074Z"
+}
+Response time: 168 ms
