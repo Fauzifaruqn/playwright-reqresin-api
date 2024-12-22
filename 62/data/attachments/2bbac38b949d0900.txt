@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Shane O'Connell-Lemke",
+  "job": "Investor Quality Agent",
+  "updatedAt": "2024-12-22T02:55:44.218Z"
+}
