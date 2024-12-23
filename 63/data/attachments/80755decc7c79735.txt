@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Merle Hintz",
+  "job": "Chief Division Executive",
+  "updatedAt": "2024-12-23T02:52:52.219Z"
+}

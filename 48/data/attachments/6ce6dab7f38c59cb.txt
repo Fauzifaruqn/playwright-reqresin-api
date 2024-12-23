@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Oliver Dickinson",
-  "job": "Lead Response Assistant",
-  "updatedAt": "2024-12-08T03:10:04.449Z"
-}

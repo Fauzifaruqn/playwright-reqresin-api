@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Lynda Haley",
+  "job": "Corporate Branding Officer",
+  "id": "232",
+  "createdAt": "2024-12-23T02:52:51.196Z"
+}
+Response time: 167 ms
