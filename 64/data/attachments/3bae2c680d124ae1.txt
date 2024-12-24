@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Mr. Sergio Von",
+  "job": "Product Optimization Liaison",
+  "id": "11",
+  "createdAt": "2024-12-24T02:50:58.613Z"
+}
+Response time: 178 ms

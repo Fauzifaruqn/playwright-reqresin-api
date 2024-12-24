@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Stacy O'Connell-Kuvalis V",
-  "job": "Legacy Accountability Engineer",
-  "id": "835",
-  "createdAt": "2024-12-09T03:08:03.753Z"
-}
-Response time: 312 ms

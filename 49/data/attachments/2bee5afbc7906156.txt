@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mrs. Blanche Buckridge",
-  "job": "National Communications Consultant",
-  "updatedAt": "2024-12-09T03:08:05.653Z"
-}
