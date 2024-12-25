@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Shirley Jenkins",
-  "job": "District Accounts Supervisor",
-  "updatedAt": "2024-12-10T03:06:12.536Z"
-}

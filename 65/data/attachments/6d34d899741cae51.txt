@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Felix Waters",
+  "job": "Investor Quality Coordinator",
+  "updatedAt": "2024-12-25T02:49:06.964Z"
+}

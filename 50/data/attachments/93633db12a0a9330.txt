@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Christopher Tromp",
-  "job": "Product Response Associate",
-  "updatedAt": "2024-12-10T03:06:13.382Z"
-}

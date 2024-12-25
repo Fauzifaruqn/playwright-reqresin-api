@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Mrs. Kari Heaney",
+  "job": "Direct Data Architect",
+  "id": "777",
+  "createdAt": "2024-12-25T02:49:06.776Z"
+}
+Response time: 173 ms

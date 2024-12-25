@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Ms. Vera O'Keefe",
+  "job": "Dynamic Usability Assistant",
+  "updatedAt": "2024-12-25T02:49:07.820Z"
+}
