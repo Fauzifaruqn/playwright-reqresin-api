@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Alvin Flatley",
-  "job": "National Optimization Architect",
-  "updatedAt": "2024-12-11T03:03:29.353Z"
-}

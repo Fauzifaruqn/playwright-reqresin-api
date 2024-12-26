@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Gregory Hackett",
-  "job": "Internal Usability Administrator",
-  "updatedAt": "2024-12-11T03:03:28.490Z"
-}
