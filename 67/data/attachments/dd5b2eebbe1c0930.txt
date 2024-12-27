@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Spencer Barton",
+  "job": "Senior Directives Specialist",
+  "id": "842",
+  "createdAt": "2024-12-27T02:50:52.997Z"
+}
+Response time: 165 ms

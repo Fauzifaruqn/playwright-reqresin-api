@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Rosalie Walter-Hansen",
-  "job": "Direct Tactics Analyst",
-  "updatedAt": "2024-12-12T03:04:12.974Z"
-}

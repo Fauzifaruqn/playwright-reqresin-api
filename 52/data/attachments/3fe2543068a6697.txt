@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Oliver Roberts",
-  "job": "Future Data Analyst",
-  "id": "436",
-  "createdAt": "2024-12-12T03:04:11.084Z"
-}
-Response time: 305 ms
