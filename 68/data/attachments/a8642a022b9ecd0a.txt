@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Henrietta Morar",
+  "job": "Future Configuration Supervisor",
+  "id": "378",
+  "createdAt": "2024-12-28T02:47:23.807Z"
+}
+Response time: 170 ms

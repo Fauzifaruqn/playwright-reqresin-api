@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Arturo Beier I",
-  "job": "Forward Brand Assistant",
-  "updatedAt": "2024-12-13T03:05:39.465Z"
-}

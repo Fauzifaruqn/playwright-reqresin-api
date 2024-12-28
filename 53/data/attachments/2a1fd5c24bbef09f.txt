@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Lorenzo Langworth",
-  "job": "Central Paradigm Associate",
-  "updatedAt": "2024-12-13T03:05:38.498Z"
-}
