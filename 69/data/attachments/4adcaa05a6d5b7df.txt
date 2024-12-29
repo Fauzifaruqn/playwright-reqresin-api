@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Francis Marvin",
+  "job": "Regional Infrastructure Agent",
+  "id": "675",
+  "createdAt": "2024-12-29T02:57:14.536Z"
+}
+Response time: 176 ms
