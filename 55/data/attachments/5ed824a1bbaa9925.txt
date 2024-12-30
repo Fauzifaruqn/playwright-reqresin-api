@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Mamie Jast",
-  "job": "Human Communications Executive",
-  "updatedAt": "2024-12-15T03:10:00.846Z"
-}

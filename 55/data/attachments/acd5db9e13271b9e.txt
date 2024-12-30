@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Sheryl Abernathy",
-  "job": "Central Applications Architect",
-  "updatedAt": "2024-12-15T03:09:59.910Z"
-}

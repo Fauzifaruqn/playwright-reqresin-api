@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Jackie Strosin PhD",
-  "job": "Chief Markets Consultant",
-  "id": "336",
-  "createdAt": "2024-12-15T03:09:59.710Z"
-}
-Response time: 179 ms
