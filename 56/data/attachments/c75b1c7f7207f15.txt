@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Janis Kuphal",
-  "job": "Corporate Optimization Director",
-  "id": "222",
-  "createdAt": "2024-12-16T03:07:52.813Z"
-}
-Response time: 163 ms

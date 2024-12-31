@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Megan O'Conner",
-  "job": "Future Implementation Engineer",
-  "updatedAt": "2024-12-16T03:07:52.997Z"
-}

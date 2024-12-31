@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Rickey Brekke",
+  "job": "Product Configuration Architect",
+  "updatedAt": "2024-12-31T02:49:55.847Z"
+}
