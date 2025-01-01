@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Don Bartell",
+  "job": "Principal Communications Associate",
+  "updatedAt": "2025-01-01T02:57:29.851Z"
+}

@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Delia Kulas",
-  "job": "Regional Division Orchestrator",
-  "id": "426",
-  "createdAt": "2024-12-17T03:03:11.974Z"
-}
-Response time: 174 ms

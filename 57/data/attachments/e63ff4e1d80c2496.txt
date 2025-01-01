@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Geneva Watsica",
-  "job": "Lead Markets Representative",
-  "updatedAt": "2024-12-17T03:03:12.159Z"
-}

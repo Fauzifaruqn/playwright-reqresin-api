@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Mrs. Jacquelyn Jerde",
+  "job": "Senior Identity Director",
+  "id": "922",
+  "createdAt": "2025-01-01T02:57:29.671Z"
+}
+Response time: 165 ms

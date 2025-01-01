@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Miss Sharon Kerluke",
-  "job": "Future Branding Analyst",
-  "updatedAt": "2024-12-17T03:03:13.008Z"
-}

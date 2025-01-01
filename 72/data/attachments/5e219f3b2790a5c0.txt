@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Armando Greenholt",
+  "job": "International Accounts Assistant",
+  "updatedAt": "2025-01-01T02:57:30.717Z"
+}
