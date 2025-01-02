@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Mr. Bernard Kautzer",
+  "job": "Lead Metrics Producer",
+  "updatedAt": "2025-01-02T02:50:00.281Z"
+}

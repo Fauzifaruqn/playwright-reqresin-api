@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Ken Weimann",
+  "job": "International Optimization Agent",
+  "updatedAt": "2025-01-02T02:49:59.375Z"
+}

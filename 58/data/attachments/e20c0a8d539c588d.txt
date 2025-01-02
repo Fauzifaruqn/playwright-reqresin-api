@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Iris Bashirian-Wilkinson",
-  "job": "International Quality Analyst",
-  "updatedAt": "2024-12-18T02:58:10.865Z"
-}

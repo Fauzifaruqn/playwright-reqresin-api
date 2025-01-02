@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Andres Grimes-Bergstrom",
+  "job": "Forward Marketing Associate",
+  "id": "915",
+  "createdAt": "2025-01-02T02:49:59.175Z"
+}
+Response time: 175 ms
