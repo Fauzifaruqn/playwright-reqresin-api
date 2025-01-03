@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jennifer Doyle-Jones",
+  "job": "Regional Data Developer",
+  "updatedAt": "2025-01-03T02:51:05.181Z"
+}

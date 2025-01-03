@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Megan Price",
-  "job": "District Factors Architect",
-  "id": "578",
-  "createdAt": "2024-12-19T02:58:51.788Z"
-}
-Response time: 165 ms
