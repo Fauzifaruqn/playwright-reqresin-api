@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Jesse MacGyver",
-  "job": "Regional Factors Coordinator",
-  "updatedAt": "2024-12-20T02:51:50.012Z"
-}

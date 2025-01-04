@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Robert Mitchell",
-  "job": "Principal Factors Supervisor",
-  "id": "25",
-  "createdAt": "2024-12-20T02:51:48.909Z"
-}
-Response time: 166 ms

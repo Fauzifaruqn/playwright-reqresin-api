@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Vernon Little",
+  "job": "District Communications Strategist",
+  "id": "652",
+  "createdAt": "2025-01-04T02:48:24.708Z"
+}
+Response time: 210 ms
