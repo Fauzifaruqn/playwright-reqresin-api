@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Denise Smith",
-  "job": "Global Mobility Technician",
-  "updatedAt": "2024-12-21T02:47:55.263Z"
-}
