@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Doyle Hammes",
+  "job": "Lead Optimization Engineer",
+  "updatedAt": "2025-01-06T02:55:30.100Z"
+}

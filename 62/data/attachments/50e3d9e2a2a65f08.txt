@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Gayle Hagenes-Emmerich",
-  "job": "Lead Quality Executive",
-  "id": "39",
-  "createdAt": "2024-12-22T02:55:44.033Z"
-}
-Response time: 164 ms
