@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Gordon Pacocha",
-  "job": "Legacy Accounts Assistant",
-  "updatedAt": "2024-12-23T02:52:51.377Z"
-}
