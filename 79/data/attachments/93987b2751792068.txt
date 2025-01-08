@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Angela Luettgen",
+  "job": "Dynamic Quality Facilitator",
+  "id": "848",
+  "createdAt": "2025-01-08T02:50:33.130Z"
+}
+Response time: 269 ms

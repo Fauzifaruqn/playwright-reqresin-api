@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Emmett Ruecker",
+  "job": "Investor Brand Engineer",
+  "updatedAt": "2025-01-08T02:50:33.414Z"
+}

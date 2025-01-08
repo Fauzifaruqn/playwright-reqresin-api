@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Fredrick Pouros",
-  "job": "Principal Factors Manager",
-  "updatedAt": "2024-12-24T02:50:58.812Z"
-}

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Elvira Gerhold",
-  "job": "National Brand Producer",
-  "updatedAt": "2024-12-24T02:50:59.741Z"
-}
