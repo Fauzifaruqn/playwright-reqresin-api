@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Terrell Wehner IV",
+  "job": "Customer Assurance Director",
+  "updatedAt": "2025-01-09T03:13:37.080Z"
+}

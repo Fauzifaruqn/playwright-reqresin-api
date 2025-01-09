@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Charlie Mayert",
+  "job": "District Metrics Officer",
+  "updatedAt": "2025-01-09T03:13:35.645Z"
+}
