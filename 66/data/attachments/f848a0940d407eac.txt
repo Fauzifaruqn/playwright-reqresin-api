@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Fredrick Maggio",
-  "job": "Forward Marketing Specialist",
-  "updatedAt": "2024-12-26T02:50:03.123Z"
-}

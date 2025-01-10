@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Kellie Shanahan",
+  "job": "Regional Operations Agent",
+  "updatedAt": "2025-01-10T02:54:51.249Z"
+}

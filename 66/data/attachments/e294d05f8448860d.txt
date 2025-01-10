@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Nathaniel Schumm",
-  "job": "Senior Quality Architect",
-  "updatedAt": "2024-12-26T02:50:02.246Z"
-}

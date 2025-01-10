@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Agnes Trantow",
-  "job": "Product Brand Administrator",
-  "id": "615",
-  "createdAt": "2024-12-26T02:50:02.037Z"
-}
-Response time: 168 ms
