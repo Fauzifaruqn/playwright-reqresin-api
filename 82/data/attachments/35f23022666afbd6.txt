@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Sally Steuber MD",
+  "job": "International Metrics Architect",
+  "id": "950",
+  "createdAt": "2025-01-11T02:50:47.288Z"
+}
+Response time: 207 ms
