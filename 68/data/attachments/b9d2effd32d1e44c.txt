@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Heather Daugherty",
-  "job": "International Factors Officer",
-  "updatedAt": "2024-12-28T02:47:24.884Z"
-}

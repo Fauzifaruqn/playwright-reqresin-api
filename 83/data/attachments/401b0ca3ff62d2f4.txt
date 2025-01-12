@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Bennie Bins",
+  "job": "Regional Research Liaison",
+  "updatedAt": "2025-01-12T02:58:41.415Z"
+}

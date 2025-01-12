@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Frederick Schmidt",
-  "job": "Future Metrics Architect",
-  "updatedAt": "2024-12-28T02:47:23.987Z"
-}
