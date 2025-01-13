@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Kevin Swift",
-  "job": "Direct Tactics Designer",
-  "updatedAt": "2024-12-29T02:57:15.672Z"
-}

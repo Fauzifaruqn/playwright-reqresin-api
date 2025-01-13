@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Judith Hilll",
+  "job": "Product Directives Agent",
+  "updatedAt": "2025-01-13T02:56:32.129Z"
+}
