@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Tyler Conroy",
-  "job": "Customer Interactions Planner",
-  "id": "998",
-  "createdAt": "2024-12-30T02:53:17.072Z"
-}
-Response time: 170 ms

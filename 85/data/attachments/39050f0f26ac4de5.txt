@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Percy Runolfsson PhD",
+  "job": "Internal Infrastructure Architect",
+  "id": "459",
+  "createdAt": "2025-01-14T02:42:42.094Z"
+}
+Response time: 283 ms

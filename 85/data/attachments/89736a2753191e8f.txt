@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Regina Streich",
+  "job": "Central Solutions Orchestrator",
+  "updatedAt": "2025-01-14T02:42:42.397Z"
+}

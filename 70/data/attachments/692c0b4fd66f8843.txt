@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Al Collier",
-  "job": "Regional Usability Specialist",
-  "updatedAt": "2024-12-30T02:53:17.264Z"
-}
