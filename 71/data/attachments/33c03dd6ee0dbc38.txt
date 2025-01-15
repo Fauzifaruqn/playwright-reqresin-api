@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Tyrone Marks V",
-  "job": "Investor Quality Facilitator",
-  "updatedAt": "2024-12-31T02:49:54.341Z"
-}

@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Jacqueline Hoppe",
+  "job": "Central Data Orchestrator",
+  "id": "901",
+  "createdAt": "2025-01-15T02:46:35.700Z"
+}
+Response time: 172 ms
