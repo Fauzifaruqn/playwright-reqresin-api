@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Jeff Kling",
+  "job": "Product Configuration Producer",
+  "id": "851",
+  "createdAt": "2025-01-16T02:44:40.011Z"
+}
+Response time: 284 ms
