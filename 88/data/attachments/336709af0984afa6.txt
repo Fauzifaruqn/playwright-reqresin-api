@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Vicki West",
+  "job": "Principal Mobility Technician",
+  "updatedAt": "2025-01-17T02:44:07.691Z"
+}

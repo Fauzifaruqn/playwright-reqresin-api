@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Louis Ward",
+  "job": "Global Optimization Producer",
+  "id": "669",
+  "createdAt": "2025-01-17T02:44:06.670Z"
+}
+Response time: 156 ms
