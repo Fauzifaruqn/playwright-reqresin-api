@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Dr. Lionel Gorczany",
-  "job": "Chief Configuration Orchestrator",
-  "id": "712",
-  "createdAt": "2025-01-03T02:51:03.275Z"
-}
-Response time: 323 ms

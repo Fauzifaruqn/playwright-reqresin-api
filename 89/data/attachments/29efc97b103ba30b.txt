@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Joel Bode",
+  "job": "Regional Marketing Executive",
+  "updatedAt": "2025-01-18T02:40:46.232Z"
+}
