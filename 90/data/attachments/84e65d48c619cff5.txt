@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Iris Beier-Bailey",
+  "job": "Central Marketing Specialist",
+  "updatedAt": "2025-01-19T02:51:23.177Z"
+}

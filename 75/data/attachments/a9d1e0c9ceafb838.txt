@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Renee Hermiston IV",
-  "job": "Senior Data Technician",
-  "updatedAt": "2025-01-04T02:48:26.317Z"
-}
