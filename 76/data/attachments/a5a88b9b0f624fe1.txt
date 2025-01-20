@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Lynn Hayes",
-  "job": "Future Operations Planner",
-  "updatedAt": "2025-01-05T02:56:06.578Z"
-}

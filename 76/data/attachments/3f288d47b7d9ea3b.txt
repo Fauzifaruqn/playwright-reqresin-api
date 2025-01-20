@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Gary Rowe",
-  "job": "Internal Functionality Representative",
-  "id": "861",
-  "createdAt": "2025-01-05T02:56:04.974Z"
-}
-Response time: 208 ms

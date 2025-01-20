@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Jo Luettgen",
+  "job": "Internal Solutions Officer",
+  "id": "90",
+  "createdAt": "2025-01-20T02:49:10.589Z"
+}
+Response time: 150 ms

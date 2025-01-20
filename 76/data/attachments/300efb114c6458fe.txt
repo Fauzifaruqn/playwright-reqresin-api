@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Helen Runolfsson",
-  "job": "Future Integration Strategist",
-  "updatedAt": "2025-01-05T02:56:05.248Z"
-}
