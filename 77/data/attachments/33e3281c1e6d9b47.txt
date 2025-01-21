@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Joel Homenick",
-  "job": "Principal Identity Executive",
-  "updatedAt": "2025-01-06T02:55:31.047Z"
-}

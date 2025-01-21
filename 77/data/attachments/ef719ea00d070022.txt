@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Kristi Wiegand-Reichel",
-  "job": "Principal Mobility Agent",
-  "id": "543",
-  "createdAt": "2025-01-06T02:55:29.900Z"
-}
-Response time: 179 ms
