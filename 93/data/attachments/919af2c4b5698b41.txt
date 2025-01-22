@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Diana Ward",
+  "job": "District Communications Analyst",
+  "updatedAt": "2025-01-22T02:49:29.126Z"
+}

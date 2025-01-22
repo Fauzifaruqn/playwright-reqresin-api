@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Vicki Bernier",
+  "job": "Global Division Planner",
+  "updatedAt": "2025-01-22T02:49:28.095Z"
+}
