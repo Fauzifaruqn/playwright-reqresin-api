@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Blake Stamm",
+  "job": "Corporate Assurance Administrator",
+  "id": "44",
+  "createdAt": "2025-01-23T02:46:49.105Z"
+}
+Response time: 182 ms

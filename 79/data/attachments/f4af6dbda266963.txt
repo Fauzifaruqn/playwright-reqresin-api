@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Cary Bailey",
-  "job": "Global Infrastructure Strategist",
-  "updatedAt": "2025-01-08T02:50:34.809Z"
-}
