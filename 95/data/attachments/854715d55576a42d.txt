@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Hugo Dare",
+  "job": "Dynamic Quality Producer",
+  "id": "414",
+  "createdAt": "2025-01-24T02:47:27.080Z"
+}
+Response time: 171 ms

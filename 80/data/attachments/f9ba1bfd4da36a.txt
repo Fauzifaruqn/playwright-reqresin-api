@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Constance Kovacek",
-  "job": "Dynamic Configuration Engineer",
-  "id": "388",
-  "createdAt": "2025-01-09T03:13:35.364Z"
-}
-Response time: 278 ms

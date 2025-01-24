@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Cynthia Schuster II",
+  "job": "Direct Communications Analyst",
+  "updatedAt": "2025-01-24T02:47:28.349Z"
+}
