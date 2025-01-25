@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Mr. Abel Kemmer",
-  "job": "Regional Tactics Administrator",
-  "id": "771",
-  "createdAt": "2025-01-10T02:54:50.948Z"
-}
-Response time: 280 ms
