@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Marcia Ryan V",
+  "job": "Global Identity Architect",
+  "id": "612",
+  "createdAt": "2025-01-26T02:49:02.533Z"
+}
+Response time: 305 ms

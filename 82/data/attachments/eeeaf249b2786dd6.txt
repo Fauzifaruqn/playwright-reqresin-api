@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Gustavo Muller",
-  "job": "International Directives Strategist",
-  "updatedAt": "2025-01-11T02:50:47.554Z"
-}

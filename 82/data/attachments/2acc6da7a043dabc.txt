@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Vernon Reichert",
-  "job": "Forward Data Agent",
-  "updatedAt": "2025-01-11T02:50:48.852Z"
-}
