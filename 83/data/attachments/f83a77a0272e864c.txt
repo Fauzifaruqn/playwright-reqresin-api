@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Alvin Konopelski",
-  "job": "Chief Mobility Facilitator",
-  "updatedAt": "2025-01-12T02:58:39.929Z"
-}

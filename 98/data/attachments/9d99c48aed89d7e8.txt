@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Amanda Kreiger",
+  "job": "Product Paradigm Strategist",
+  "updatedAt": "2025-01-27T02:48:47.871Z"
+}
