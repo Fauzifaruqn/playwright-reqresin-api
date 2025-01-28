@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Allan Gutkowski",
+  "job": "Product Interactions Architect",
+  "updatedAt": "2025-01-28T02:45:53.940Z"
+}

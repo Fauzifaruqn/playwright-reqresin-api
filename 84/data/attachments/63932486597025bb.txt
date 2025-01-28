@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Gwen Leannon",
-  "job": "Corporate Branding Associate",
-  "updatedAt": "2025-01-13T02:56:32.974Z"
-}

@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Sylvia Bednar",
+  "job": "Human Factors Agent",
+  "id": "518",
+  "createdAt": "2025-01-28T02:45:53.630Z"
+}
+Response time: 304 ms
