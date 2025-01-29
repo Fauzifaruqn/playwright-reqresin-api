@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Cary Muller",
+  "job": "Forward Brand Liaison",
+  "updatedAt": "2025-01-29T02:44:31.888Z"
+}

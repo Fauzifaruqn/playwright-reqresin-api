@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Sophia Christiansen",
-  "job": "Future Security Associate",
-  "updatedAt": "2025-01-14T02:42:43.850Z"
-}
