@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Shannon Bruen",
+  "job": "Dynamic Mobility Director",
+  "id": "28",
+  "createdAt": "2025-01-30T02:43:10.877Z"
+}
+Response time: 313 ms

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Tami Douglas",
-  "job": "National Integration Executive",
-  "updatedAt": "2025-01-15T02:46:35.899Z"
-}

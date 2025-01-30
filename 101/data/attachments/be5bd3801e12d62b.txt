@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Robin Kihn",
+  "job": "Future Directives Assistant",
+  "updatedAt": "2025-01-30T02:43:12.756Z"
+}
