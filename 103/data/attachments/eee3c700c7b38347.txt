@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Charlie Orn",
+  "job": "Principal Group Administrator",
+  "updatedAt": "2025-02-01T02:50:03.236Z"
+}

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Terence Herzog",
-  "job": "Central Markets Analyst",
-  "updatedAt": "2025-01-17T02:44:06.849Z"
-}

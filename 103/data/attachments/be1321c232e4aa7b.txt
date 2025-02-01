@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Bonnie Thiel I",
+  "job": "Internal Branding Director",
+  "updatedAt": "2025-02-01T02:50:02.209Z"
+}
