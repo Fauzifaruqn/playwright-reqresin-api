@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Francisco Mayer Jr.",
-  "job": "Product Marketing Designer",
-  "updatedAt": "2025-01-18T02:40:47.657Z"
-}

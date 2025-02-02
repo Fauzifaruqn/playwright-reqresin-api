@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Myrtle Homenick",
-  "job": "Investor Web Coordinator",
-  "id": "944",
-  "createdAt": "2025-01-18T02:40:45.944Z"
-}
-Response time: 285 ms
