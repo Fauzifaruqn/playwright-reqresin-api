@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Bob Borer",
+  "job": "Forward Branding Architect",
+  "updatedAt": "2025-02-03T02:48:15.431Z"
+}

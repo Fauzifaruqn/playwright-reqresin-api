@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Irene Goldner",
-  "job": "National Identity Engineer",
-  "updatedAt": "2025-01-19T02:51:22.196Z"
-}

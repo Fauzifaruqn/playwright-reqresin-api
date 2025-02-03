@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Amelia Lockman",
-  "job": "National Interactions Architect",
-  "id": "751",
-  "createdAt": "2025-01-19T02:51:22.006Z"
-}
-Response time: 167 ms
