@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Donna Jacobson",
-  "job": "Customer Tactics Executive",
-  "updatedAt": "2025-01-21T02:46:27.132Z"
-}

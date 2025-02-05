@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Miss Kara Towne-Greenfelder",
-  "job": "Direct Security Agent",
-  "id": "262",
-  "createdAt": "2025-01-21T02:46:26.067Z"
-}
-Response time: 164 ms

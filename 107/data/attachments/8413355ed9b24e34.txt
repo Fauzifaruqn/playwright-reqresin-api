@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Kyle Mayer",
+  "job": "Internal Assurance Manager",
+  "updatedAt": "2025-02-05T02:49:16.791Z"
+}

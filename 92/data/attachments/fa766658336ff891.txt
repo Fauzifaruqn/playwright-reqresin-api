@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Tommy Toy",
-  "job": "International Directives Specialist",
-  "updatedAt": "2025-01-21T02:46:26.250Z"
-}
