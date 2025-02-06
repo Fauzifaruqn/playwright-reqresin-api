@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jesus Cruickshank",
+  "job": "Corporate Accountability Manager",
+  "updatedAt": "2025-02-06T02:49:14.376Z"
+}
