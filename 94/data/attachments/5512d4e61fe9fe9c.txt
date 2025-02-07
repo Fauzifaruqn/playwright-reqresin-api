@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Brent Ledner I",
-  "job": "Legacy Accounts Orchestrator",
-  "updatedAt": "2025-01-23T02:46:49.305Z"
-}

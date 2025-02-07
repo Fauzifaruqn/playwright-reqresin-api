@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dewey Klein",
-  "job": "Global Mobility Architect",
-  "updatedAt": "2025-01-23T02:46:50.243Z"
-}
