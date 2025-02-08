@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Larry Mueller",
+  "job": "Direct Accountability Supervisor",
+  "updatedAt": "2025-02-08T02:43:37.285Z"
+}

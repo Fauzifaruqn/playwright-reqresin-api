@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Rolando Mueller",
-  "job": "Internal Solutions Orchestrator",
-  "updatedAt": "2025-01-24T02:47:27.373Z"
-}
