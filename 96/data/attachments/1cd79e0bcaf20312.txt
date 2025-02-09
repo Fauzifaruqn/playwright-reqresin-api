@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Ella Schowalter III",
-  "job": "Customer Mobility Engineer",
-  "updatedAt": "2025-01-25T02:40:37.577Z"
-}

@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Bradford Lind",
-  "job": "District Group Technician",
-  "id": "370",
-  "createdAt": "2025-01-25T02:40:35.774Z"
-}
-Response time: 280 ms
