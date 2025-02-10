@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Leslie Hayes",
+  "job": "Global Interactions Agent",
+  "updatedAt": "2025-02-10T02:51:06.021Z"
+}

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Earnest Skiles",
-  "job": "International Quality Coordinator",
-  "updatedAt": "2025-01-26T02:49:04.395Z"
-}
