@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Ms. Angela Prosacco",
+  "job": "Global Tactics Producer",
+  "updatedAt": "2025-02-11T02:50:36.943Z"
+}

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Tammy Vandervort I",
+  "job": "Global Implementation Planner",
+  "updatedAt": "2025-02-11T02:50:35.354Z"
+}

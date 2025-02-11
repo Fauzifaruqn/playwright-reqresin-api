@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Naomi Abshire",
+  "job": "National Quality Developer",
+  "id": "434",
+  "createdAt": "2025-02-11T02:50:35.024Z"
+}
+Response time: 301 ms
