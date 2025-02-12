@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Juanita Kling",
+  "job": "Principal Research Director",
+  "updatedAt": "2025-02-12T02:49:29.839Z"
+}
