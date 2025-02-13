@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Eunice Mayert-Murphy",
-  "job": "Future Accountability Officer",
-  "id": "433",
-  "createdAt": "2025-01-29T02:44:30.571Z"
-}
-Response time: 220 ms

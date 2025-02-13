@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Elvira Wisozk",
-  "job": "Customer Accounts Liaison",
-  "updatedAt": "2025-01-29T02:44:30.769Z"
-}

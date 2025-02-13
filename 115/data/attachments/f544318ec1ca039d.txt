@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Heidi Zulauf",
+  "job": "Human Intranet Developer",
+  "updatedAt": "2025-02-13T02:50:27.445Z"
+}
