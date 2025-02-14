@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Pedro Schimmel",
+  "job": "Customer Mobility Planner",
+  "updatedAt": "2025-02-14T02:49:45.939Z"
+}

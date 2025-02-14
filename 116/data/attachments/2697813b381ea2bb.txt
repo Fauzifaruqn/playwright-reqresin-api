@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Randy Walker",
+  "job": "Dynamic Web Assistant",
+  "id": "333",
+  "createdAt": "2025-02-14T02:49:45.757Z"
+}
+Response time: 161 ms
