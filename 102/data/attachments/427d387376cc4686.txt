@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Bob Schroeder V",
-  "job": "Legacy Data Technician",
-  "id": "470",
-  "createdAt": "2025-01-31T02:46:08.371Z"
-}
-Response time: 306 ms

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Tim Schmitt",
+  "job": "Corporate Quality Designer",
+  "updatedAt": "2025-02-15T02:48:31.863Z"
+}

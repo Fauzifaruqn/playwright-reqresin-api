@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Stewart Nienow",
-  "job": "National Mobility Strategist",
-  "updatedAt": "2025-01-31T02:46:08.678Z"
-}

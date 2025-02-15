@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Blake Cassin",
+  "job": "Regional Program Assistant",
+  "id": "216",
+  "createdAt": "2025-02-15T02:48:30.101Z"
+}
+Response time: 286 ms

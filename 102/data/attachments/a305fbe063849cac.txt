@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Willard Champlin",
-  "job": "International Infrastructure Engineer",
-  "updatedAt": "2025-01-31T02:46:10.169Z"
-}
