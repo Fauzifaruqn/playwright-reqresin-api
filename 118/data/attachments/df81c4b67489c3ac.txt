@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Neil Schiller",
+  "job": "Chief Applications Specialist",
+  "id": "934",
+  "createdAt": "2025-02-16T02:54:32.875Z"
+}
+Response time: 319 ms

@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Rodney Bode",
-  "job": "International Accountability Designer",
-  "id": "222",
-  "createdAt": "2025-02-01T02:50:01.924Z"
-}
-Response time: 163 ms
