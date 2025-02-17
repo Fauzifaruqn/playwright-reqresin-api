@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Jeffrey Beatty",
-  "job": "Customer Markets Planner",
-  "updatedAt": "2025-02-02T02:48:56.726Z"
-}

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Martha Gulgowski",
+  "job": "Forward Directives Architect",
+  "updatedAt": "2025-02-17T02:53:22.841Z"
+}

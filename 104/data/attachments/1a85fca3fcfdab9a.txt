@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Kyle Hickle",
-  "job": "Senior Quality Associate",
-  "id": "860",
-  "createdAt": "2025-02-02T02:48:56.405Z"
-}
-Response time: 310 ms

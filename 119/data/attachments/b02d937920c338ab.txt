@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Rebecca Keebler",
+  "job": "Legacy Branding Strategist",
+  "id": "241",
+  "createdAt": "2025-02-17T02:53:22.650Z"
+}
+Response time: 179 ms

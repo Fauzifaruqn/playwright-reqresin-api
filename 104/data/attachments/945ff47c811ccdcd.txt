@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Penny Kiehn",
-  "job": "Legacy Metrics Planner",
-  "updatedAt": "2025-02-02T02:48:58.287Z"
-}
