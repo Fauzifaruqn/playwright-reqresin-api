@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Shaun Sanford",
-  "job": "Future Solutions Orchestrator",
-  "updatedAt": "2025-02-03T02:48:16.293Z"
-}

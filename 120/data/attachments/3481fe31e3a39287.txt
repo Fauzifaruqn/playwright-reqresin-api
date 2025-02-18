@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Rodney Spinka",
+  "job": "Legacy Division Officer",
+  "updatedAt": "2025-02-18T02:49:13.353Z"
+}

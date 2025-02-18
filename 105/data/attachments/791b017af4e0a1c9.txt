@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Fernando Hartmann",
-  "job": "Lead Solutions Representative",
-  "id": "463",
-  "createdAt": "2025-02-03T02:48:15.238Z"
-}
-Response time: 169 ms
