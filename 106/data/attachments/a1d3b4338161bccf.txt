@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Ruth Abbott",
-  "job": "Future Communications Developer",
-  "updatedAt": "2025-02-04T02:46:44.486Z"
-}

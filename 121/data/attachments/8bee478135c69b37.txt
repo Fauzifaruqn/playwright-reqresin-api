@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Darrin Littel",
+  "job": "Direct Usability Orchestrator",
+  "id": "363",
+  "createdAt": "2025-02-19T02:50:53.604Z"
+}
+Response time: 181 ms

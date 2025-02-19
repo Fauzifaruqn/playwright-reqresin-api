@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Miss Lynne Pfeffer",
-  "job": "Customer Directives Orchestrator",
-  "updatedAt": "2025-02-04T02:46:43.036Z"
-}

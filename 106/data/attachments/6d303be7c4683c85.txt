@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Bobbie Becker",
-  "job": "Future Accountability Developer",
-  "id": "104",
-  "createdAt": "2025-02-04T02:46:42.727Z"
-}
-Response time: 286 ms
