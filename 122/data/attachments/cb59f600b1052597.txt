@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Curtis Kiehn",
+  "job": "Direct Brand Director",
+  "id": "870",
+  "createdAt": "2025-02-20T02:51:07.057Z"
+}
+Response time: 161 ms

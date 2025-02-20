@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Garrett Hegmann-Hills",
+  "job": "Global Integration Assistant",
+  "updatedAt": "2025-02-20T02:51:07.239Z"
+}
