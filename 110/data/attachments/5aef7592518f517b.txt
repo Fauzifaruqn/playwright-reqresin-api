@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Levi Christiansen",
-  "job": "Dynamic Factors Liaison",
-  "updatedAt": "2025-02-08T02:43:38.230Z"
-}

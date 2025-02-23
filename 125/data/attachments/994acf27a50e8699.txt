@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jimmy Kautzer",
+  "job": "Regional Group Assistant",
+  "updatedAt": "2025-02-23T02:54:54.522Z"
+}

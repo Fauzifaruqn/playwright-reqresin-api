@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Dianna King-Dooley",
-  "job": "Senior Paradigm Designer",
-  "id": "619",
-  "createdAt": "2025-02-08T02:43:37.082Z"
-}
-Response time: 182 ms

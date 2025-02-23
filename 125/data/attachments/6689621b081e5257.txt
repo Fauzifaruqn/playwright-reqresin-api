@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Dominic Walter",
+  "job": "Direct Group Architect",
+  "id": "885",
+  "createdAt": "2025-02-23T02:54:54.220Z"
+}
+Response time: 279 ms
