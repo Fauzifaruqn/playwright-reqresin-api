@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Maria Witting",
+  "job": "Direct Configuration Specialist",
+  "updatedAt": "2025-02-24T02:55:19.773Z"
+}

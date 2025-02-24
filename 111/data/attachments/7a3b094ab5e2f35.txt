@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Lamar Homenick",
-  "job": "Global Optimization Orchestrator",
-  "id": "813",
-  "createdAt": "2025-02-09T02:51:26.571Z"
-}
-Response time: 163 ms

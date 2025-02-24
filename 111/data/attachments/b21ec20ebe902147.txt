@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Duane Schneider",
-  "job": "National Accounts Architect",
-  "updatedAt": "2025-02-09T02:51:26.753Z"
-}
