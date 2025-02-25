@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Nathaniel Toy",
-  "job": "Chief Group Engineer",
-  "id": "249",
-  "createdAt": "2025-02-10T02:51:05.841Z"
-}
-Response time: 159 ms

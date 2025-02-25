@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Grant Koepp-Hagenes",
+  "job": "International Markets Specialist",
+  "updatedAt": "2025-02-25T02:54:12.638Z"
+}

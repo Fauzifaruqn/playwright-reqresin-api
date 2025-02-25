@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mr. Don Dach",
-  "job": "International Program Representative",
-  "updatedAt": "2025-02-10T02:51:06.881Z"
-}

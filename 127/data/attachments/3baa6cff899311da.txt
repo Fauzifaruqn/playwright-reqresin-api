@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "June Hermiston",
+  "job": "Regional Implementation Director",
+  "id": "942",
+  "createdAt": "2025-02-25T02:54:11.582Z"
+}
+Response time: 158 ms

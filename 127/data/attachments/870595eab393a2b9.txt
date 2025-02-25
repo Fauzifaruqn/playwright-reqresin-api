@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Gayle Keeling",
+  "job": "Legacy Division Administrator",
+  "updatedAt": "2025-02-25T02:54:11.757Z"
+}
