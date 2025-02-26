@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Cecil Hermann DDS",
+  "job": "Product Identity Engineer",
+  "id": "235",
+  "createdAt": "2025-02-26T02:53:15.386Z"
+}
+Response time: 160 ms

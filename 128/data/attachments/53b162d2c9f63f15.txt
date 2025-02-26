@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Colin Cruickshank",
+  "job": "Investor Security Director",
+  "updatedAt": "2025-02-26T02:53:16.469Z"
+}

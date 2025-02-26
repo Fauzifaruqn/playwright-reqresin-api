@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Mr. Tommy Hartmann",
+  "job": "Dynamic Group Technician",
+  "updatedAt": "2025-02-26T02:53:15.572Z"
+}
