@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Mr. Melvin Kilback",
+  "job": "Senior Configuration Engineer",
+  "updatedAt": "2025-02-27T02:54:36.062Z"
+}
