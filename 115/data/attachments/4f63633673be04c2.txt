@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Ryan Turcotte",
-  "job": "Forward Division Assistant",
-  "updatedAt": "2025-02-13T02:50:26.497Z"
-}

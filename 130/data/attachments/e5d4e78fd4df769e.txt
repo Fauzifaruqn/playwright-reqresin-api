@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Francis Fritsch",
+  "job": "International Group Developer",
+  "id": "327",
+  "createdAt": "2025-02-28T02:55:12.632Z"
+}
+Response time: 310 ms

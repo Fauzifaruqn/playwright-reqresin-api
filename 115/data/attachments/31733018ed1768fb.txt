@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Estelle Steuber",
-  "job": "International Program Engineer",
-  "id": "172",
-  "createdAt": "2025-02-13T02:50:26.279Z"
-}
-Response time: 189 ms
