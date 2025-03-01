@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Dr. Guadalupe Kemmer DDS",
+  "job": "Global Markets Developer",
+  "updatedAt": "2025-03-01T02:58:33.200Z"
+}

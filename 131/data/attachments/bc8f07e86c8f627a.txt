@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Steven Watsica",
+  "job": "District Assurance Technician",
+  "id": "771",
+  "createdAt": "2025-03-01T02:58:32.060Z"
+}
+Response time: 172 ms
