@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Nichole Barrows",
+  "job": "Global Optimization Planner",
+  "updatedAt": "2025-03-02T02:57:25.726Z"
+}

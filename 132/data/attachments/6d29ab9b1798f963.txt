@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Ida Cronin",
+  "job": "Human Factors Officer",
+  "id": "139",
+  "createdAt": "2025-03-02T02:57:25.543Z"
+}
+Response time: 157 ms
