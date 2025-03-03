@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Hugo Hermann",
-  "job": "Product Functionality Planner",
-  "updatedAt": "2025-02-16T02:54:33.216Z"
-}

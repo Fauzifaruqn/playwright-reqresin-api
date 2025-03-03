@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Homer Fadel",
-  "job": "Internal Factors Assistant",
-  "updatedAt": "2025-02-16T02:54:34.824Z"
-}

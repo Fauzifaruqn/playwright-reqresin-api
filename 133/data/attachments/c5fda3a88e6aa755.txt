@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Marcus Erdman MD",
+  "job": "National Metrics Administrator",
+  "id": "900",
+  "createdAt": "2025-03-03T02:57:05.499Z"
+}
+Response time: 179 ms
