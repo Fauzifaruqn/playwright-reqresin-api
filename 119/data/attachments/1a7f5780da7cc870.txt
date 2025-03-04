@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Tracey Stark",
-  "job": "Principal Markets Director",
-  "updatedAt": "2025-02-17T02:53:23.704Z"
-}

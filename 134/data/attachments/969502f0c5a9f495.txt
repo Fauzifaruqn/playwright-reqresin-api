@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Travis Abshire",
+  "job": "Regional Assurance Orchestrator",
+  "id": "624",
+  "createdAt": "2025-03-04T02:56:21.997Z"
+}
+Response time: 185 ms
