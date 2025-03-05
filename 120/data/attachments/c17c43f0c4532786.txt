@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Brittany Hills",
-  "job": "Principal Quality Consultant",
-  "updatedAt": "2025-02-18T02:49:14.217Z"
-}

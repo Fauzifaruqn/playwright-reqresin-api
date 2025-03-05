@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Blanche Mills",
-  "job": "Forward Mobility Specialist",
-  "id": "100",
-  "createdAt": "2025-02-18T02:49:13.169Z"
-}
-Response time: 165 ms
