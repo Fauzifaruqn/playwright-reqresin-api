@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Willie Brakus",
+  "job": "Central Operations Officer",
+  "id": "444",
+  "createdAt": "2025-03-06T02:56:29.865Z"
+}
+Response time: 153 ms

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Shelia Konopelski",
+  "job": "Investor Implementation Architect",
+  "updatedAt": "2025-03-06T02:56:30.040Z"
+}
