@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Edwin Ortiz",
+  "job": "Central Infrastructure Supervisor",
+  "id": "114",
+  "createdAt": "2025-03-07T02:57:26.936Z"
+}
+Response time: 301 ms

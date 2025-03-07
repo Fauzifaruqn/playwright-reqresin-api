@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Phyllis Lebsack",
+  "job": "Direct Group Specialist",
+  "updatedAt": "2025-03-07T02:57:27.259Z"
+}

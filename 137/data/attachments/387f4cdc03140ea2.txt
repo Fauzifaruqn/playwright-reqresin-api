@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Stephanie Bergstrom",
+  "job": "Internal Infrastructure Agent",
+  "updatedAt": "2025-03-07T02:57:28.809Z"
+}
