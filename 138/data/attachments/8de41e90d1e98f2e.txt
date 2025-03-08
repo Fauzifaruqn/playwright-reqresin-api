@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Patricia Leffler",
+  "job": "Regional Operations Architect",
+  "updatedAt": "2025-03-08T02:30:42.977Z"
+}

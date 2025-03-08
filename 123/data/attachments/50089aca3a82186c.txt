@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Rick Batz",
-  "job": "International Directives Technician",
-  "id": "772",
-  "createdAt": "2025-02-21T02:51:27.276Z"
-}
-Response time: 177 ms
