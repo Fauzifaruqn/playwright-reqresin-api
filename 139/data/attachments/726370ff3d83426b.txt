@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Robert Crona",
+  "job": "Senior Brand Engineer",
+  "id": "342",
+  "createdAt": "2025-03-09T02:34:10.695Z"
+}
+Response time: 301 ms
