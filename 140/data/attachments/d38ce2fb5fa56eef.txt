@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Marianne Nicolas",
+  "job": "Dynamic Branding Coordinator",
+  "updatedAt": "2025-03-10T02:35:24.519Z"
+}
