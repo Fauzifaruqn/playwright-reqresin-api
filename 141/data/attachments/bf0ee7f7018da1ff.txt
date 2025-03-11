@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Olga Brown",
+  "job": "Future Brand Orchestrator",
+  "updatedAt": "2025-03-11T02:57:24.520Z"
+}

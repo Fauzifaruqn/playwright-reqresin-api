@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Wm Block II",
-  "job": "Customer Operations Analyst",
-  "id": "73",
-  "createdAt": "2025-02-24T02:55:18.739Z"
-}
-Response time: 159 ms
