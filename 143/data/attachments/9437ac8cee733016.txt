@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Ashley Hintz-Schiller",
+  "job": "International Marketing Administrator",
+  "updatedAt": "2025-03-13T02:58:01.102Z"
+}
