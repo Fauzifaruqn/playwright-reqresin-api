@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Marcia Reichert",
+  "job": "Central Metrics Representative",
+  "updatedAt": "2025-03-14T02:56:41.384Z"
+}

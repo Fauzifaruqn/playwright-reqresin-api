@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Terri Herzog V",
+  "job": "Product Data Planner",
+  "id": "969",
+  "createdAt": "2025-03-14T02:56:40.239Z"
+}
+Response time: 177 ms

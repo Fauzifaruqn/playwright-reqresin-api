@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Antonia Effertz",
-  "job": "Investor Tactics Representative",
-  "updatedAt": "2025-02-27T02:54:37.546Z"
-}

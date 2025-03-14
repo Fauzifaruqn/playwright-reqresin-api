@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Karla Weber",
-  "job": "International Factors Designer",
-  "id": "604",
-  "createdAt": "2025-02-27T02:54:35.745Z"
-}
-Response time: 294 ms
