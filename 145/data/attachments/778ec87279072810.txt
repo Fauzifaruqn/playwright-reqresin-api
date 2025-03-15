@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jeannette Macejkovic",
+  "job": "Global Integration Coordinator",
+  "updatedAt": "2025-03-15T02:54:29.848Z"
+}

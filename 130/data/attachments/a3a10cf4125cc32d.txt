@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Cory Macejkovic",
-  "job": "Investor Metrics Manager",
-  "updatedAt": "2025-02-28T02:55:14.561Z"
-}
