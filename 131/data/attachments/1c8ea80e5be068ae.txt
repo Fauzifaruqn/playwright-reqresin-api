@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Janis Thompson II",
-  "job": "Forward Operations Manager",
-  "updatedAt": "2025-03-01T02:58:32.262Z"
-}

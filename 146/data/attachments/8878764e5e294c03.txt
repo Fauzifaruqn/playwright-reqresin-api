@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Mr. Charles Brakus",
+  "job": "Central Metrics Engineer",
+  "updatedAt": "2025-03-16T03:01:38.966Z"
+}
