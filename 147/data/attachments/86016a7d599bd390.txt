@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Katherine Mohr II",
+  "job": "Product Division Technician",
+  "updatedAt": "2025-03-17T03:00:41.775Z"
+}

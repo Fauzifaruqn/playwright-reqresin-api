@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Ms. Karla O'Keefe",
+  "job": "Lead Usability Assistant",
+  "id": "97",
+  "createdAt": "2025-03-17T03:00:39.997Z"
+}
+Response time: 299 ms

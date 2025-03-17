@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Sheila Hermiston",
-  "job": "District Research Strategist",
-  "updatedAt": "2025-03-02T02:57:26.575Z"
-}
