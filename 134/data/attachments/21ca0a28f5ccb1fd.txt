@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Sheila Stokes",
-  "job": "National Markets Producer",
-  "updatedAt": "2025-03-04T02:56:23.166Z"
-}

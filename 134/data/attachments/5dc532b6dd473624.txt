@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Felicia Schneider",
-  "job": "Legacy Communications Producer",
-  "updatedAt": "2025-03-04T02:56:22.199Z"
-}
