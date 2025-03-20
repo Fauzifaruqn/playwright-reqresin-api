@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Elsie Dach",
+  "job": "Customer Creative Facilitator",
+  "updatedAt": "2025-03-20T02:57:58.386Z"
+}

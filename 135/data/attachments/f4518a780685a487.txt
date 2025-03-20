@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Al Hickle",
-  "job": "Chief Tactics Assistant",
-  "updatedAt": "2025-03-05T02:55:41.522Z"
-}

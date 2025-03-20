@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Raquel Reilly",
-  "job": "Investor Directives Architect",
-  "updatedAt": "2025-03-05T02:55:40.607Z"
-}

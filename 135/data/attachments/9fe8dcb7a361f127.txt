@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Gerald Collins",
-  "job": "International Quality Agent",
-  "id": "444",
-  "createdAt": "2025-03-05T02:55:40.415Z"
-}
-Response time: 171 ms

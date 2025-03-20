@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Christine Nitzsche",
+  "job": "Principal Markets Liaison",
+  "id": "691",
+  "createdAt": "2025-03-20T02:57:56.615Z"
+}
+Response time: 283 ms
