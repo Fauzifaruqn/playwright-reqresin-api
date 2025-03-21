@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Ronald Pfeffer V",
-  "job": "Investor Functionality Planner",
-  "updatedAt": "2025-03-06T02:56:30.944Z"
-}

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Silvia Beer",
+  "job": "Customer Security Executive",
+  "updatedAt": "2025-03-21T03:00:01.867Z"
+}
