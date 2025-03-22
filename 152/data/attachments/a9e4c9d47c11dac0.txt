@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Santiago Conroy",
+  "job": "Corporate Paradigm Administrator",
+  "updatedAt": "2025-03-22T02:57:39.290Z"
+}

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jack Towne",
+  "job": "Lead Group Assistant",
+  "updatedAt": "2025-03-22T02:57:38.346Z"
+}
