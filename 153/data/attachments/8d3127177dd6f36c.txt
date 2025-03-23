@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Erika Kertzmann",
+  "job": "Future Functionality Manager",
+  "id": "264",
+  "createdAt": "2025-03-23T03:04:53.198Z"
+}
+Response time: 159 ms

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Noel Pfannerstill",
-  "job": "National Accounts Liaison",
-  "updatedAt": "2025-03-08T02:30:43.895Z"
-}
