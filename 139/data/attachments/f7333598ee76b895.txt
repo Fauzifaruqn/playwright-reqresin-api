@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Sally Berge",
-  "job": "Corporate Factors Assistant",
-  "updatedAt": "2025-03-09T02:34:12.470Z"
-}

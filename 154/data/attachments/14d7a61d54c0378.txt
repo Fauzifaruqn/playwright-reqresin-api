@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Rosemarie Mante",
+  "job": "Future Usability Analyst",
+  "updatedAt": "2025-03-24T03:04:32.555Z"
+}
