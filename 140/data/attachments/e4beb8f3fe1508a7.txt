@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Bradley Schuppe-Grant",
-  "job": "Direct Functionality Associate",
-  "updatedAt": "2025-03-10T02:35:25.881Z"
-}

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Florence Dooley II",
+  "job": "Principal Creative Designer",
+  "updatedAt": "2025-03-25T03:01:08.050Z"
+}
