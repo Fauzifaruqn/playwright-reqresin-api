@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Lila Hackett-Rau",
-  "job": "Future Optimization Architect",
-  "id": "291",
-  "createdAt": "2025-03-11T02:57:23.487Z"
-}
-Response time: 159 ms

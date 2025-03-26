@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mr. Theodore Conn",
-  "job": "Dynamic Web Engineer",
-  "updatedAt": "2025-03-11T02:57:23.661Z"
-}

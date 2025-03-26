@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Alyssa Harber",
+  "job": "Global Security Director",
+  "updatedAt": "2025-03-26T03:00:15.665Z"
+}
