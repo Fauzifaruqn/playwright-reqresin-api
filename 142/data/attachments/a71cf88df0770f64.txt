@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Andrea Kreiger",
-  "job": "Global Integration Supervisor",
-  "updatedAt": "2025-03-12T02:56:30.583Z"
-}

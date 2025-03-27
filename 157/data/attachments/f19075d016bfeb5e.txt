@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Tomas Spinka",
+  "job": "Dynamic Optimization Officer",
+  "updatedAt": "2025-03-27T03:00:15.207Z"
+}

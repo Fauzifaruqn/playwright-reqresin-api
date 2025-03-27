@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Allan Pfeffer",
-  "job": "Regional Program Architect",
-  "updatedAt": "2025-03-12T02:56:28.562Z"
-}

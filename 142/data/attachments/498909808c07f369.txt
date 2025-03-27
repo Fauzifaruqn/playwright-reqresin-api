@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Bruce Dach",
-  "job": "Lead Directives Representative",
-  "id": "900",
-  "createdAt": "2025-03-12T02:56:28.077Z"
-}
-Response time: 499 ms

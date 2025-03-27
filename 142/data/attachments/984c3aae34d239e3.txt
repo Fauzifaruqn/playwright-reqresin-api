@@ -1,6 +1,0 @@
-Cek Register Payload { email: 'eve.holt@reqres.in', password: 'HyScFf2g4g7gru5' }
-Status: 200
-Response Body: {
-  "id": 4,
-  "token": "QpwL5tke4Pnpja7X4"
-}

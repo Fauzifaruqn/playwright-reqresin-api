@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "David Erdman V",
+  "job": "Customer Factors Analyst",
+  "id": "459",
+  "createdAt": "2025-03-27T03:00:14.139Z"
+}
+Response time: 165 ms
