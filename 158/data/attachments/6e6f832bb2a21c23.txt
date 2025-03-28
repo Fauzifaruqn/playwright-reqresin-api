@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Mr. Laurence Weber",
+  "job": "Regional Research Technician",
+  "updatedAt": "2025-03-28T03:02:21.687Z"
+}

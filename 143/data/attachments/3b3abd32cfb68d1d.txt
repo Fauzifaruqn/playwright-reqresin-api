@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Debbie Botsford",
-  "job": "Chief Creative Manager",
-  "id": "307",
-  "createdAt": "2025-03-13T02:58:00.917Z"
-}
-Response time: 158 ms
