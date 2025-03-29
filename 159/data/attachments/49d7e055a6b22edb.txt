@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Kelly Kub",
+  "job": "Dynamic Intranet Planner",
+  "updatedAt": "2025-03-29T02:58:26.652Z"
+}

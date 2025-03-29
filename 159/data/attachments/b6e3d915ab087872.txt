@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Bernard Bergstrom",
+  "job": "National Web Executive",
+  "id": "274",
+  "createdAt": "2025-03-29T02:58:24.854Z"
+}
+Response time: 301 ms
