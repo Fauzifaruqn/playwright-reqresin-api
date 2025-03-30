@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Darrin Maggio",
+  "job": "Investor Group Supervisor",
+  "id": "281",
+  "createdAt": "2025-03-30T03:08:32.424Z"
+}
+Response time: 281 ms

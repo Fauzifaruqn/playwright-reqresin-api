@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Muriel Haley",
-  "job": "Lead Mobility Technician",
-  "updatedAt": "2025-03-15T02:54:28.259Z"
-}

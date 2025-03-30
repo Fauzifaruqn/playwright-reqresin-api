@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jan Blanda I",
+  "job": "National Group Administrator",
+  "updatedAt": "2025-03-30T03:08:32.730Z"
+}
