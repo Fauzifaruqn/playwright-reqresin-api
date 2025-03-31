@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Erma Vandervort",
-  "job": "National Assurance Designer",
-  "updatedAt": "2025-03-16T03:01:38.129Z"
-}

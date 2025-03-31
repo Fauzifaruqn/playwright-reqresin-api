@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Ms. Lula Klocko",
-  "job": "Corporate Operations Specialist",
-  "id": "668",
-  "createdAt": "2025-03-16T03:01:37.955Z"
-}
-Response time: 156 ms

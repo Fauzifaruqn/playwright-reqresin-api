@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Chad Hilpert",
+  "job": "Direct Research Assistant",
+  "id": "800",
+  "createdAt": "2025-03-31T03:07:59.767Z"
+}
+Response time: 172 ms
