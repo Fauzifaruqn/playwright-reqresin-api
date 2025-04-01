@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Laurie Sporer",
+  "job": "Regional Accountability Executive",
+  "updatedAt": "2025-04-01T03:14:37.182Z"
+}

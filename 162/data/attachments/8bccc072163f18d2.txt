@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Regina Kuphal DDS",
+  "job": "Global Infrastructure Architect",
+  "id": "48",
+  "createdAt": "2025-04-01T03:14:36.145Z"
+}
+Response time: 171 ms
