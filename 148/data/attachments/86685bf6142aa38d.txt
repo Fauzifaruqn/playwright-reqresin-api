@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Joanne Baumbach",
-  "job": "International Optimization Assistant",
-  "id": "271",
-  "createdAt": "2025-03-18T02:59:51.033Z"
-}
-Response time: 157 ms

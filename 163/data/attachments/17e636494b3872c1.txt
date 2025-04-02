@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Jenny Wolff",
+  "job": "Product Web Associate",
+  "updatedAt": "2025-04-02T03:02:50.046Z"
+}

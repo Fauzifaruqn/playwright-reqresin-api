@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Marlene Swaniawski",
+  "job": "Internal Group Specialist",
+  "id": "428",
+  "createdAt": "2025-04-02T03:02:49.860Z"
+}
+Response time: 172 ms
