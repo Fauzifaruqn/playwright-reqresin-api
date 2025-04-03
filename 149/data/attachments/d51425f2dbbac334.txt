@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Sharon Borer",
-  "job": "Lead Paradigm Technician",
-  "updatedAt": "2025-03-19T02:59:14.710Z"
-}

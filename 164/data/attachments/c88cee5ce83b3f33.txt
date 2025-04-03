@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Esther Bartoletti",
+  "job": "Regional Functionality Orchestrator",
+  "updatedAt": "2025-04-03T03:01:28.930Z"
+}
