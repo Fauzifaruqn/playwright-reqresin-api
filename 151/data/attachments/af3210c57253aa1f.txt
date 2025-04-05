@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Virginia Maggio",
-  "job": "Future Configuration Liaison",
-  "updatedAt": "2025-03-21T03:00:02.759Z"
-}
