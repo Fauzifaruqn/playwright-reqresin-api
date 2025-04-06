@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Miss Annie Shanahan",
+  "job": "International Optimization Officer",
+  "updatedAt": "2025-04-06T03:06:00.810Z"
+}

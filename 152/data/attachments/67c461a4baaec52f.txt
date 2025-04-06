@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Bryant Jenkins",
-  "job": "Chief Optimization Consultant",
-  "id": "698",
-  "createdAt": "2025-03-22T02:57:38.136Z"
-}
-Response time: 180 ms

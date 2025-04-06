@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Eric Barrows",
+  "job": "Central Interactions Orchestrator",
+  "updatedAt": "2025-04-06T03:05:59.960Z"
+}
