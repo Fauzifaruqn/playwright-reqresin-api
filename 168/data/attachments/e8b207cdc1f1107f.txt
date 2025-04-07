@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Faith O'Keefe",
+  "job": "Human Data Administrator",
+  "updatedAt": "2025-04-07T03:06:20.843Z"
+}

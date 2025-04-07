@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Earl Davis",
+  "job": "Lead Communications Executive",
+  "id": "593",
+  "createdAt": "2025-04-07T03:06:19.065Z"
+}
+Response time: 298 ms

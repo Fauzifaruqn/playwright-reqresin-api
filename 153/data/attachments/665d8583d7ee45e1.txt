@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Maxine Boyle",
-  "job": "International Group Strategist",
-  "updatedAt": "2025-03-23T03:04:54.205Z"
-}
