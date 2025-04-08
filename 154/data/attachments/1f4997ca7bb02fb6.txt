@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Walter Bayer",
-  "job": "Product Group Orchestrator",
-  "updatedAt": "2025-03-24T03:04:33.442Z"
-}

@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Armando Hilll",
-  "job": "Lead Division Developer",
-  "id": "435",
-  "createdAt": "2025-03-24T03:04:32.370Z"
-}
-Response time: 161 ms
