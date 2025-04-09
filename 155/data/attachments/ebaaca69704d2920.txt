@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Miss Colleen Rice",
-  "job": "Lead Usability Director",
-  "id": "96",
-  "createdAt": "2025-03-25T03:01:06.249Z"
-}
-Response time: 286 ms

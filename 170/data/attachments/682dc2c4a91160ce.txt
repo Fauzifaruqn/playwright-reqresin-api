@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Gail Hilll",
+  "job": "Chief Mobility Administrator",
+  "updatedAt": "2025-04-09T03:03:23.156Z"
+}
