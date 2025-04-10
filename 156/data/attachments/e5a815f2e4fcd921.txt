@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Gina King",
-  "job": "Customer Directives Liaison",
-  "id": "815",
-  "createdAt": "2025-03-26T03:00:14.512Z"
-}
-Response time: 175 ms

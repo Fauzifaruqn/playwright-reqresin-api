@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Tomas Collier",
-  "job": "Legacy Infrastructure Administrator",
-  "updatedAt": "2025-03-26T03:00:14.710Z"
-}
