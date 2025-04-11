@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Antonia Pfeffer",
-  "job": "Internal Mobility Liaison",
-  "updatedAt": "2025-03-27T03:00:14.323Z"
-}
