@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Sergio Treutel",
+  "job": "International Division Consultant",
+  "id": "309",
+  "createdAt": "2025-04-12T03:00:04.691Z"
+}
+Response time: 168 ms

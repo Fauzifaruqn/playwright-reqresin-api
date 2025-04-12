@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Dr. Clinton Corkery",
-  "job": "Direct Identity Consultant",
-  "id": "976",
-  "createdAt": "2025-03-28T03:02:20.116Z"
-}
-Response time: 250 ms

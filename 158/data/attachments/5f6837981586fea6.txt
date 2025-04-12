@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mathew Veum",
-  "job": "Direct Interactions Director",
-  "updatedAt": "2025-03-28T03:02:20.388Z"
-}
