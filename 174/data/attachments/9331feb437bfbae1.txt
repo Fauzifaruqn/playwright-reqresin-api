@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Homer Fisher",
+  "job": "Direct Data Manager",
+  "updatedAt": "2025-04-13T04:08:22.690Z"
+}

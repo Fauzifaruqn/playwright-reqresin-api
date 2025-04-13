@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Lorenzo Harris DVM",
-  "job": "Internal Intranet Assistant",
-  "updatedAt": "2025-03-29T02:58:25.173Z"
-}

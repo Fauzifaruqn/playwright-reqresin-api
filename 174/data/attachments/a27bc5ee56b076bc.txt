@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Shane Ebert",
+  "job": "Global Marketing Designer",
+  "id": "509",
+  "createdAt": "2025-04-13T04:08:21.555Z"
+}
+Response time: 173 ms
