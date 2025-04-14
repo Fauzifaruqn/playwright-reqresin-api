@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Saul Pouros",
-  "job": "Chief Communications Facilitator",
-  "updatedAt": "2025-03-30T03:08:34.190Z"
-}

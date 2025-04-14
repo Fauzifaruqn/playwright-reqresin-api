@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Calvin Schinner-Dibbert",
+  "job": "National Assurance Assistant",
+  "id": "348",
+  "createdAt": "2025-04-14T03:09:07.750Z"
+}
+Response time: 178 ms
