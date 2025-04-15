@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Cary Stiedemann",
-  "job": "Central Quality Administrator",
-  "updatedAt": "2025-03-31T03:07:59.958Z"
-}

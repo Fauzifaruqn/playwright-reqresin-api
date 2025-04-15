@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Lynette Cronin",
-  "job": "Forward Group Coordinator",
-  "updatedAt": "2025-03-31T03:08:00.824Z"
-}

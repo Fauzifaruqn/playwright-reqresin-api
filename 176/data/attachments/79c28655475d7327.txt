@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Maurice Wisozk",
+  "job": "International Mobility Strategist",
+  "updatedAt": "2025-04-15T03:07:31.315Z"
+}
