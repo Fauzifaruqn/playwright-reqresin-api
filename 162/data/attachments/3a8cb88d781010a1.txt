@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Arturo Wunsch",
-  "job": "Human Identity Administrator",
-  "updatedAt": "2025-04-01T03:14:36.325Z"
-}

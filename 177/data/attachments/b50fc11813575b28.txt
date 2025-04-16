@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Amanda Kreiger Jr.",
+  "job": "Central Security Assistant",
+  "updatedAt": "2025-04-16T03:06:30.960Z"
+}
