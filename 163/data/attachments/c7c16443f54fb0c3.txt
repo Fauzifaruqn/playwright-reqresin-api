@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Bryant Green I",
-  "job": "Global Operations Officer",
-  "updatedAt": "2025-04-02T03:02:50.943Z"
-}

@@ -1,0 +1,8 @@
+Status: 201
+Response Body: {
+  "name": "Donald Crona",
+  "job": "Senior Interactions Administrator",
+  "id": "37",
+  "createdAt": "2025-04-17T03:05:04.936Z"
+}
+Response time: 169 ms
