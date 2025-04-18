@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Mr. Bradford Emmerich",
+  "job": "Lead Brand Engineer",
+  "updatedAt": "2025-04-18T03:02:47.822Z"
+}

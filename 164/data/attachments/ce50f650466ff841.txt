@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Bonnie Lehner DDS",
-  "job": "Forward Division Facilitator",
-  "id": "43",
-  "createdAt": "2025-04-03T03:01:27.863Z"
-}
-Response time: 160 ms
