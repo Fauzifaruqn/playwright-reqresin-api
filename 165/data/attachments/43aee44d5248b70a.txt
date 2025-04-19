@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Casey Rolfson I",
-  "job": "Chief Response Coordinator",
-  "id": "255",
-  "createdAt": "2025-04-04T03:01:32.898Z"
-}
-Response time: 149 ms

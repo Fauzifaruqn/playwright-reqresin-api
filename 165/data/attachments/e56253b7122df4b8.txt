@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Thomas Raynor",
-  "job": "Dynamic Mobility Agent",
-  "updatedAt": "2025-04-04T03:01:33.068Z"
-}

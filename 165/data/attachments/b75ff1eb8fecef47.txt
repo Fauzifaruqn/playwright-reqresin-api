@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Miss Tiffany Gerhold",
-  "job": "Customer Paradigm Architect",
-  "updatedAt": "2025-04-04T03:01:33.888Z"
-}
