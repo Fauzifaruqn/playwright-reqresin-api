@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Paul Corwin",
-  "job": "Chief Division Facilitator",
-  "id": "773",
-  "createdAt": "2025-04-05T02:59:17.999Z"
-}
-Response time: 281 ms
