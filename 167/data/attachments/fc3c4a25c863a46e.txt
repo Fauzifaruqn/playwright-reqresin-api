@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Kelly Towne",
-  "job": "Global Factors Consultant",
-  "id": "822",
-  "createdAt": "2025-04-06T03:05:59.781Z"
-}
-Response time: 156 ms
