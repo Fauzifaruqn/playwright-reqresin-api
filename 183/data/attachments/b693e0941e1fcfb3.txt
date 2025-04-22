@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Chris Altenwerth",
+  "job": "Dynamic Division Orchestrator",
+  "updatedAt": "2025-04-22T03:05:16.995Z"
+}
