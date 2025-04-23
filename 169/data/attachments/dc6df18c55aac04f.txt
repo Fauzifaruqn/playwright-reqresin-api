@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Sherman O'Keefe",
-  "job": "Direct Interactions Coordinator",
-  "updatedAt": "2025-04-08T03:02:05.159Z"
-}

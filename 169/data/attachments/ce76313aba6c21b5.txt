@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Josefina Watsica",
-  "job": "Product Infrastructure Agent",
-  "id": "418",
-  "createdAt": "2025-04-08T03:02:04.050Z"
-}
-Response time: 164 ms

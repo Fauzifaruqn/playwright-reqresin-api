@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Cary Ward",
-  "job": "Regional Security Architect",
-  "updatedAt": "2025-04-08T03:02:04.240Z"
-}
