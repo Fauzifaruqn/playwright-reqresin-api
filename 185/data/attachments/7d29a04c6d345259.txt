@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Ken Rolfson",
+  "job": "Principal Assurance Engineer",
+  "updatedAt": "2025-04-24T03:08:00.024Z"
+}

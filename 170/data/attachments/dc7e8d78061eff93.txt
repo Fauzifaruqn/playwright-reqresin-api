@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Kelli Lynch",
-  "job": "International Directives Analyst",
-  "updatedAt": "2025-04-09T03:03:24.057Z"
-}
