@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Amy Mraz",
-  "job": "Direct Communications Manager",
-  "updatedAt": "2025-04-10T03:02:46.049Z"
-}

@@ -1,0 +1,6 @@
+Status: 200
+Response Body: {
+  "name": "Claire Schaefer",
+  "job": "National Group Agent",
+  "updatedAt": "2025-04-25T03:07:58.150Z"
+}
