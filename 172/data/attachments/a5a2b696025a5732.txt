@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Pearl Will",
-  "job": "Human Markets Supervisor",
-  "id": "30",
-  "createdAt": "2025-04-11T03:03:39.747Z"
-}
-Response time: 176 ms
