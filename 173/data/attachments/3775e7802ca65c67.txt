@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Josephine Boehm",
-  "job": "Regional Research Analyst",
-  "updatedAt": "2025-04-12T03:00:05.769Z"
-}

@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mrs. Olga Osinski PhD",
-  "job": "Senior Creative Orchestrator",
-  "updatedAt": "2025-04-12T03:00:04.882Z"
-}
