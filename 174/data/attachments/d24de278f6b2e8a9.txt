@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Karl Block",
-  "job": "Human Creative Analyst",
-  "updatedAt": "2025-04-13T04:08:21.761Z"
-}
