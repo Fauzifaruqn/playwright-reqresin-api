@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Noel Haag I",
-  "job": "Regional Paradigm Assistant",
-  "updatedAt": "2025-04-14T03:09:08.882Z"
-}

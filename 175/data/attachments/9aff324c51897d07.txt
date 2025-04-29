@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Warren Gutmann",
-  "job": "District Accountability Specialist",
-  "updatedAt": "2025-04-14T03:09:07.949Z"
-}
