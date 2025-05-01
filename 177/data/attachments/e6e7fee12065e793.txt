@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Ignacio Gorczany PhD",
-  "job": "Customer Directives Technician",
-  "updatedAt": "2025-04-16T03:06:31.912Z"
-}
