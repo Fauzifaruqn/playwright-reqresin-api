@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mercedes Hoeger",
-  "job": "Human Tactics Representative",
-  "updatedAt": "2025-04-17T03:05:05.126Z"
-}
