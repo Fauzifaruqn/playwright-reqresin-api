@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Amy Wiza Jr.",
-  "job": "District Accountability Specialist",
-  "updatedAt": "2025-04-18T03:02:48.683Z"
-}
