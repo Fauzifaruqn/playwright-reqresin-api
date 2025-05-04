@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Jim Streich-Little",
-  "job": "Dynamic Optimization Technician",
-  "id": "159",
-  "createdAt": "2025-04-19T02:58:24.971Z"
-}
-Response time: 299 ms

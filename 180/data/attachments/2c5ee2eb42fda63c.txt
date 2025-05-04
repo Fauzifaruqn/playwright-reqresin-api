@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dean Schaden",
-  "job": "Customer Brand Strategist",
-  "updatedAt": "2025-04-19T02:58:26.856Z"
-}
