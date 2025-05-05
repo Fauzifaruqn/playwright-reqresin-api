@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Ruth White",
-  "job": "Direct Operations Technician",
-  "id": "903",
-  "createdAt": "2025-04-20T03:10:50.405Z"
-}
-Response time: 285 ms

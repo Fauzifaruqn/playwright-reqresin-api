@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Hazel Yost",
-  "job": "International Configuration Administrator",
-  "updatedAt": "2025-04-20T03:10:52.172Z"
-}
