@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Angelica Rath II",
-  "job": "District Paradigm Designer",
-  "updatedAt": "2025-04-21T03:12:04.808Z"
-}

@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Vivian Leuschke",
-  "job": "Principal Response Assistant",
-  "id": "560",
-  "createdAt": "2025-04-21T03:12:03.653Z"
-}
-Response time: 178 ms
