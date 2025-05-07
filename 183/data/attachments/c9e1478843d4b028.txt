@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Terri Botsford MD",
-  "job": "Senior Usability Coordinator",
-  "id": "211",
-  "createdAt": "2025-04-22T03:05:15.853Z"
-}
-Response time: 179 ms

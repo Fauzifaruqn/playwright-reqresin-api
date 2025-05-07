@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Mrs. Christy Gottlieb",
-  "job": "Chief Creative Supervisor",
-  "updatedAt": "2025-04-22T03:05:16.059Z"
-}
