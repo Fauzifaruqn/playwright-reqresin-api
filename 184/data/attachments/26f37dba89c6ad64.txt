@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Melody Mraz",
-  "job": "Principal Identity Liaison",
-  "updatedAt": "2025-04-23T03:06:21.514Z"
-}

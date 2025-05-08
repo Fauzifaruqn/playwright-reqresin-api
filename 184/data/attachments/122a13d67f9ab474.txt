@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Maurice Stokes",
-  "job": "Human Data Agent",
-  "updatedAt": "2025-04-23T03:06:20.231Z"
-}
