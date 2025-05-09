@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Ashley Block DDS",
-  "job": "Forward Creative Developer",
-  "updatedAt": "2025-04-24T03:07:59.141Z"
-}

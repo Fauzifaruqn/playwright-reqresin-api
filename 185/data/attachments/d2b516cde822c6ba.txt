@@ -1,4 +1,0 @@
-Status: 400
-Response Body: {
-  "error": "Missing password"
-}

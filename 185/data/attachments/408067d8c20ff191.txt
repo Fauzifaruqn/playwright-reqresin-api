@@ -1,8 +1,0 @@
-Status: 201
-Response Body: {
-  "name": "Ms. Michelle Gleason",
-  "job": "Future Infrastructure Consultant",
-  "id": "643",
-  "createdAt": "2025-04-24T03:07:58.952Z"
-}
-Response time: 171 ms
