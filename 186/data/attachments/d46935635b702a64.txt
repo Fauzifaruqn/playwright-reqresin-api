@@ -1,6 +1,0 @@
-Status: 200
-Response Body: {
-  "name": "Dr. Clark Schamberger",
-  "job": "Central Operations Manager",
-  "updatedAt": "2025-04-25T03:07:59.138Z"
-}
