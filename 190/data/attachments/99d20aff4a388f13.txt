@@ -1,6 +1,0 @@
-Cek Register Payload { email: 'eve.holt@reqres.in', password: 'D6XcqQ6BIyz5zzm' }
-Status: 401
-Response Body: {
-  "error": "Missing API key.",
-  "how_to_get_one": "https://reqres.in/signup"
-}
